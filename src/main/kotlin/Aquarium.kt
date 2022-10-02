@@ -1,4 +1,4 @@
-package example.myapp
+package Lesson3
 
 import java.lang.Math.PI
 

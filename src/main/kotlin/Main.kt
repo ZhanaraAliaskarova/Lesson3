@@ -1,5 +1,5 @@
-import example.myapp.Plecostomus
-import example.myapp.Shark
+import Lesson3.Plecostomus
+import Lesson3.Shark
 
 fun makeFish() {
     val shark = Shark()

@@ -1,4 +1,4 @@
-package example.myapp
+package Lesson3
 
 interface FishAction {
     fun eat()
